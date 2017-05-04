@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--64DD17-->
+<resources>
+    <color name="colorPrimary">#009c00</color>
+    <color name="colorPrimaryDark">#2E7D32</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <!-- Indicador circular -->
+    <color name="culminadas_indicator">#61C08C</color>
+    <color name="noculminadas_indicator">#EF6955</color>
+    <color name="pendientes_indicator">#F7F184</color>
+    <color name="asignadas_indicator">#2196F3</color>
+    <color name="supervisadas_indicator">#B6B6B6</color>
+
+
+    <color name="normal">#FFF5F5F5</color>
+    <color name="presionado">#B6B6B6</color>
+    <color name="seleccionado">#4CAF50</color>
+</resources>

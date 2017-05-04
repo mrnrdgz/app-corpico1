@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="asignadas_tipos">
+        <item>Conexiones</item>
+        <item>Desconexiones</item>
+        <item>Varios Mañana</item>
+        <item>Varios Tarde</item>
+        <item>Auxliar</item>
+    </string-array>
+    <string-array name="culminadas_tipos">
+        <item>Conexiones</item>
+        <item>Desconexiones</item>
+        <item>Varios Mañana</item>
+        <item>Varios Tarde</item>
+        <item>Auxliar</item>
+    </string-array>
+    <string-array name="pendientes_tipos">
+        <item>Conexiones</item>
+        <item>Desconexiones</item>
+        <item>Varios</item>
+    </string-array>
+    <string-array name="estados">
+        <item>Todos</item>
+        <item>Cerrada</item>
+        <item>Supervisada</item>
+        <item>Culminada</item>
+        <item>No Culminada</item>
+        <item>Pendiente</item>
+        <item>Asignadas a cuadrilla Conexiones</item>
+        <item>Asignadas a cuadrilla Desconexiones</item>
+        <item>Asignadas a cuadrilla Auxiliar</item>
+        <item>Asignadas a cuadrilla Varios Mañana</item>
+        <item>Asignadas a cuadrilla Varios Tarde</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>Todos</item>
+        <item>Retiro de Medidor</item>
+        <item>Cambio de Medidor</item>
+        <item>Rehabilitacion de Servicio</item>
+        <item>Verificación Lecturas</item>
+        <item>Colocacion de Medidor</item>
+        <item>Inspección - Verificacion</item>
+        <item>Reparacion alumbrado publico</item>
+        <item>Colocacion Med.E.Prepaga</item>
+        <item>Construcción Puesta Tierra</item>
+        <item>Reparación Centro de Calle AP</item>
+        <item>Reparación Columna AP</item>
+        <item>Solicitud Ext/Amp de Línea</item>
+    </string-array>
+    <string-array name="sectores">
+        <item>Todos</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
